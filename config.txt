@@ -1,0 +1,23 @@
+
+
+{
+"app_id": "wxbb8e370e9a3b1b88",
+"app_secret": "4649465559329894810024837ad70a6a",
+
+"template_id": "	XXo_HWc3uVvRMYdveaQXYWo92FYcGIs8b3NHA4QBumA	",
+"user_id": ["oH9J-6UTYWtf-XTPZGw7FgrUEfW8"],
+#"user_id": ["oH9J-6epFvgwFLtWNTewIIrx4_gY" , "请替换为自己的 微信号 02"],
+
+"C_ShengFen": "河南",
+"C_ChengShi": "洛阳",
+
+
+
+# 天气预报
+"API_TQYB":"f2f814290218d4ff9e52af3ee10a5738",
+
+
+# 早安心语
+"API_ZAXY":"f2f814290218d4ff9e52af3ee10a5738",
+# 晚安心语
+"API_WAXY":"f2f814290218d4ff9e52af3ee10a5738",
