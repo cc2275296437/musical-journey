@@ -2,12 +2,12 @@
 name: automation
 on:
   schedule:
-  - cron:  '0 23 * * *'
+  - cron:  '0 0 * * *'
   workflow_dispatch:
 jobs:
   send_message:
     runs-on: ubuntu-latest
-    name: WeChatID:17600005204
+    name: WeChatID:cc15637984998
     steps:
     - name: checkout
       uses: actions/checkout@v3
